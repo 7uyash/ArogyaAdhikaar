@@ -5,9 +5,9 @@
 
 ArogyaAdhikaar.ai is an all-in-one, AI-powered solution that bridges healthcare gaps in rural India. Accessible via **Phone Calls**, **WhatsApp**, and a **Mobile App**, it offers health advice, eligibility for schemes, misinformation checks, and emergency financial aid — all in **local Indian languages**.
 
-## Domain
+## Domain - Healthcare
 
-***Healthcare***
+**Problem Statement**
 
 _How might we leverage AI to revolutionise healthcare delivery, bridging critical gaps in accessibility, affordability, and quality while ensuring inclusive care across diverse geographic and socioeconomic barriers?_
 
