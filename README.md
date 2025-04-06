@@ -7,7 +7,10 @@ ArogyaAdhikaar.ai is an all-in-one, AI-powered solution that bridges healthcare 
 
 ## Domain
 
-**Healthcare**  
+***Healthcare***
+
+_How might we leverage AI to revolutionise healthcare delivery, bridging critical gaps in accessibility, affordability, and quality while ensuring inclusive care across diverse geographic and socioeconomic barriers?
+_
 Focusing on:  
 - Maternal and Child Health  
 - Scheme Awareness & Accessibility  
